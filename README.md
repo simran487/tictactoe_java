@@ -20,7 +20,7 @@ This is a simple command-line Tic-Tac-Toe game implemented in Java. The game all
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/simran487/tictactoe_java
    cd tic-tac-toe
    ```
 
@@ -46,6 +46,3 @@ This is a simple command-line Tic-Tac-Toe game implemented in Java. The game all
 
 - **TicTacToe.java**: Contains all the game logic, including player moves, board display, win/draw checking, and player switching.
 
----
-
-Replace `"https://github.com/yourusername/tic-tac-toe.git"` with your actual GitHub repository URL. This README gives a clear overview of the project and instructions on how to set it up and play the game.
