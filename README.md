@@ -21,7 +21,7 @@ This is a simple command-line Tic-Tac-Toe game implemented in Java. The game all
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/simran487/tictactoe_java
-   cd tic-tac-toe
+   cd tictactoe_java
    ```
 
 2. **Compile the Program**:
